@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a03f161-bb7b-4b13-b42d-b6b3eb7e5a87" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="08df0e75-70e2-467f-8da9-ba39ad4bc51b" />
+  <component name="ProjectId" id="2gRfKKMk69KmptqZx1gt2AU1wSC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../VisionHDRegNet" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\hn\code\000-big\VisionHDRegNet" />
+      <recent name="F:\hn\code\000-big\VisionHDRegNet\models" />
+      <recent name="F:\hn\code\000-big\VisionHDRegNet\data" />
+      <recent name="F:\hn\code\VisionHDRegNet" />
+      <recent name="F:\hn\code\VisionHDRegNet\models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\hn\code\HRegNet-main\models\deeplabv3\cityscape" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.reg_eval">
+    <configuration name="plot-chinese" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VisionHDRegNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot-chinese.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VisionHDRegNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reg_eval" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VisionHDRegNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reg_eval.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reg_eval_whu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VisionHDRegNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reg_eval_whu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reg_train_whu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VisionHDRegNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reg_train_whu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.reg_train_whu" />
+      <item itemvalue="Python.plot" />
+      <item itemvalue="Python.plot-chinese" />
+      <item itemvalue="Python.reg_eval_whu" />
+      <item itemvalue="Python.reg_eval" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.reg_eval" />
+        <item itemvalue="Python.reg_train_whu" />
+        <item itemvalue="Python.reg_eval_whu" />
+        <item itemvalue="Python.plot" />
+        <item itemvalue="Python.plot-chinese" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a03f161-bb7b-4b13-b42d-b6b3eb7e5a87" name="Default Changelist" comment="" />
+      <created>1715665246036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715665246036</updated>
+      <workItem from="1715665248554" duration="7081000" />
+      <workItem from="1715737357520" duration="22227000" />
+      <workItem from="1715781613173" duration="34775000" />
+      <workItem from="1715941052090" duration="100847000" />
+      <workItem from="1717640684151" duration="15014000" />
+      <workItem from="1717740585738" duration="37503000" />
+      <workItem from="1718327307802" duration="44108000" />
+      <workItem from="1718933014426" duration="705000" />
+      <workItem from="1718992553815" duration="40474000" />
+      <workItem from="1719557107387" duration="1603000" />
+      <workItem from="1719817416971" duration="2459000" />
+      <workItem from="1719824358936" duration="238000" />
+      <workItem from="1719884106247" duration="293000" />
+      <workItem from="1719887363389" duration="5690000" />
+      <workItem from="1719898963287" duration="12900000" />
+      <workItem from="1719969928153" duration="4617000" />
+      <workItem from="1720079189687" duration="5642000" />
+      <workItem from="1720086146907" duration="1352000" />
+      <workItem from="1720100123050" duration="48183000" />
+      <workItem from="1720581997143" duration="26366000" />
+      <workItem from="1721115952835" duration="1533000" />
+      <workItem from="1721124605581" duration="4289000" />
+      <workItem from="1723367284653" duration="11843000" />
+      <workItem from="1723444681167" duration="1568000" />
+      <workItem from="1723449162408" duration="77394000" />
+      <workItem from="1723735323305" duration="150000" />
+      <workItem from="1723735490616" duration="196900000" />
+      <workItem from="1726060764696" duration="28889000" />
+      <workItem from="1726193697796" duration="103955000" />
+      <workItem from="1727160600433" duration="79707000" />
+      <workItem from="1727422497779" duration="29723000" />
+      <workItem from="1728437799795" duration="11155000" />
+      <workItem from="1728522976410" duration="56252000" />
+      <workItem from="1731505243489" duration="624000" />
+      <workItem from="1731577587051" duration="12910000" />
+      <workItem from="1731808952050" duration="3540000" />
+      <workItem from="1732606804416" duration="166000" />
+      <workItem from="1732607000940" duration="15343000" />
+      <workItem from="1734416578890" duration="594000" />
+      <workItem from="1734441469931" duration="29526000" />
+      <workItem from="1736899095023" duration="29304000" />
+      <workItem from="1737189868298" duration="56312000" />
+      <workItem from="1737339470441" duration="24051000" />
+      <workItem from="1737429677428" duration="22186000" />
+      <workItem from="1739426997096" duration="1152000" />
+      <workItem from="1739499424669" duration="50000" />
+      <workItem from="1739499565652" duration="3518000" />
+      <workItem from="1739831465583" duration="2105000" />
+      <workItem from="1739833724067" duration="895000" />
+      <workItem from="1739834655856" duration="8609000" />
+      <workItem from="1740035472169" duration="4587000" />
+      <workItem from="1740052282589" duration="9280000" />
+      <workItem from="1748931997877" duration="1475000" />
+      <workItem from="1748933505721" duration="1063000" />
+      <workItem from="1748934821752" duration="351000" />
+      <workItem from="1748936519936" duration="360000" />
+      <workItem from="1748937337271" duration="2692000" />
+      <workItem from="1748940066792" duration="958000" />
+      <workItem from="1748941112350" duration="18000" />
+      <workItem from="1748941180175" duration="66000" />
+      <workItem from="1748941312244" duration="26000" />
+      <workItem from="1748961760650" duration="137000" />
+      <workItem from="1748961945815" duration="44000" />
+      <workItem from="1748962110087" duration="5000" />
+      <workItem from="1749010558885" duration="149000" />
+      <workItem from="1749010749629" duration="43000" />
+      <workItem from="1749020798902" duration="814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="166" y="68" width="814" height="515" key="#Deployment" timestamp="1740036074775">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="166" y="68" width="814" height="515" key="#Deployment/0.0.1152.680@0.0.1152.680" timestamp="1740036074775" />
+    <state x="169" y="2" key="#Notifications" timestamp="1739832695559">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="169" y="2" key="#Notifications/0.0.1152.680@0.0.1152.680" timestamp="1739832695559" />
+    <state x="169" y="2" key="#Options" timestamp="1739832453322">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="169" y="2" key="#Options/0.0.1152.680@0.0.1152.680" timestamp="1739832453322" />
+    <state x="63" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1740035748221">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="63" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1152.680@0.0.1152.680" timestamp="1740035748221" />
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1736577439130" />
+    <state x="363" y="0" key="#reg_eval" timestamp="1740035734956">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="363" y="0" key="#reg_eval/0.0.1152.680@0.0.1152.680" timestamp="1740035734956" />
+    <state x="484" y="59" key="#reg_eval/0.0.1536.824@0.0.1536.824" timestamp="1732622584088" />
+    <state width="1150" height="440" key="DebuggerActiveHint" timestamp="1737431084354">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1150" height="440" key="DebuggerActiveHint/0.0.1152.680@0.0.1152.680" timestamp="1737431084354" />
+    <state x="93" y="93" width="966" height="494" key="DiffContextDialog" timestamp="1739833584821">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="93" y="93" width="966" height="494" key="DiffContextDialog/0.0.1152.680@0.0.1152.680" timestamp="1739833584821" />
+    <state x="93" y="93" width="966" height="494" key="DirDiffDialog" timestamp="1739833439135">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="93" y="93" width="966" height="494" key="DirDiffDialog/0.0.1152.680@0.0.1152.680" timestamp="1739833439135" />
+    <state x="400" y="149" key="FileChooserDialogImpl" timestamp="1740120218798">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="400" y="149" key="FileChooserDialogImpl/0.0.1152.680@0.0.1152.680" timestamp="1740120218798" />
+    <state x="533" y="180" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1736657777776" />
+    <state width="1109" height="163" key="GridCell.Tab.0.bottom" timestamp="1740049175715">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="163" key="GridCell.Tab.0.bottom/0.0.1152.680@0.0.1152.680" timestamp="1740049175715" />
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1736688697769" />
+    <state width="1109" height="163" key="GridCell.Tab.0.center" timestamp="1740049175714">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="163" key="GridCell.Tab.0.center/0.0.1152.680@0.0.1152.680" timestamp="1740049175714" />
+    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1736688697768" />
+    <state width="1109" height="163" key="GridCell.Tab.0.left" timestamp="1740049175714">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="163" key="GridCell.Tab.0.left/0.0.1152.680@0.0.1152.680" timestamp="1740049175714" />
+    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1736688697768" />
+    <state width="1109" height="163" key="GridCell.Tab.0.right" timestamp="1740049175714">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="163" key="GridCell.Tab.0.right/0.0.1152.680@0.0.1152.680" timestamp="1740049175714" />
+    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1736688697768" />
+    <state width="1109" height="163" key="GridCell.Tab.1.bottom" timestamp="1740049175716">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="163" key="GridCell.Tab.1.bottom/0.0.1152.680@0.0.1152.680" timestamp="1740049175716" />
+    <state width="1493" height="220" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1736657657377" />
+    <state width="1109" height="163" key="GridCell.Tab.1.center" timestamp="1740049175715">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="163" key="GridCell.Tab.1.center/0.0.1152.680@0.0.1152.680" timestamp="1740049175715" />
+    <state width="1493" height="220" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1736657657377" />
+    <state width="1109" height="163" key="GridCell.Tab.1.left" timestamp="1740049175715">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="163" key="GridCell.Tab.1.left/0.0.1152.680@0.0.1152.680" timestamp="1740049175715" />
+    <state width="1493" height="220" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1736657657377" />
+    <state width="1109" height="163" key="GridCell.Tab.1.right" timestamp="1740049175715">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="163" key="GridCell.Tab.1.right/0.0.1152.680@0.0.1152.680" timestamp="1740049175715" />
+    <state width="1493" height="220" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1736657657377" />
+    <state x="160" y="0" key="SettingsEditor" timestamp="1740035989997">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="160" y="0" key="SettingsEditor/0.0.1152.680@0.0.1152.680" timestamp="1740035989997" />
+    <state width="583" height="323" key="XDebugger.FullValuePopup" timestamp="1737343428600">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="583" height="323" key="XDebugger.FullValuePopup/0.0.1152.680@0.0.1152.680" timestamp="1737343428600" />
+    <state x="398" y="74" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1740035987968">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="398" y="74" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1152.680@0.0.1152.680" timestamp="1740035987968" />
+    <state x="512" y="155" width="326" height="525" key="ftp.server.browser" timestamp="1739834606854">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="512" y="155" width="326" height="525" key="ftp.server.browser/0.0.1152.680@0.0.1152.680" timestamp="1739834606854" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pytorch3d-0.7.0/setup.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/transformer/swin_transformer.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/deeplab/deeplabv3plus/network/utils.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/attention/CMSA_model_pytorch.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/attention/CMSA_model_pytorch.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/deeplab/deeplabv3plus/network/_deeplab.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deeplabv3_engine.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/deeplab/utils.py</url>
+          <line>285</line>
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/seg_engine.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/seg_engine.py</url>
+          <line>177</line>
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reg_train.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="439" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reg_train.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="447" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-2114378452/574999754/functorch/_src/eager_transforms.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="561" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/pose_solver2.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="599" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/pose_solver2.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="620" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reg_engine.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="629" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reg_engine.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="630" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rt_transform.py</url>
+          <line>219</line>
+          <option name="timeStamp" value="641" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rt_transform.py</url>
+          <line>224</line>
+          <option name="timeStamp" value="642" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plot.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="673" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plot.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="674" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/pose_solver2.py</url>
+          <line>316</line>
+          <option name="timeStamp" value="675" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/pose_solver2.py</url>
+          <line>423</line>
+          <option name="timeStamp" value="677" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/seg_eval.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="690" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils_eval.py</url>
+          <line>318</line>
+          <option name="timeStamp" value="706" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/whu_data_loader.py</url>
+          <line>369</line>
+          <option name="timeStamp" value="789" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plot.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="825" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reg_eval.py</url>
+          <line>152</line>
+          <option name="timeStamp" value="826" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/argo_data_loader.py</url>
+          <line>495</line>
+          <option name="timeStamp" value="829" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/pose_solver2_whu.py</url>
+          <line>312</line>
+          <option name="timeStamp" value="834" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reg_eval.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="835" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="img_points" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$reg_train_whu.coverage" NAME="reg_train_whu Coverage Results" MODIFIED="1739845891742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HRegNet_main$pytest_in_test_feats_py.coverage" NAME="pytest in test_feats.py Coverage Results" MODIFIED="1717038459621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$argo_data_loader.coverage" NAME="argo_data_loader Coverage Results" MODIFIED="1724220477768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$deeplabv3_train.coverage" NAME="deeplabv3_train Coverage Results" MODIFIED="1724405331644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$seg_train.coverage" NAME="seg_train Coverage Results" MODIFIED="1728788183294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HRegNet_main$train_deeplabv3__1_.coverage" NAME="train_deeplabv3 Coverage Results" MODIFIED="1717576528997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/deeplabv3" />
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$reg_eval.coverage" NAME="reg_eval Coverage Results" MODIFIED="1740036757592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$deeplabv3_inference.coverage" NAME="deeplabv3_inference Coverage Results" MODIFIED="1724157518144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$plot.coverage" NAME="plot Coverage Results" MODIFIED="1739834917425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HRegNet_main$train_deeplabv3.coverage" NAME="train_deeplabv3 Coverage Results" MODIFIED="1719888182175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/deeplab" />
+    <SUITE FILE_PATH="coverage/HRegNet_main$argo_data_loader.coverage" NAME="argo_data_loader Coverage Results" MODIFIED="1717556759377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/deeplabv3" />
+    <SUITE FILE_PATH="coverage/HRegNet_main$inference_image.coverage" NAME="inference_image Coverage Results" MODIFIED="1719888096446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/deeplab" />
+    <SUITE FILE_PATH="coverage/HRegNet_main$test_feats.coverage" NAME="test_feats Coverage Results" MODIFIED="1717050204851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HRegNet_main$train_deeplab.coverage" NAME="train_deeplab Coverage Results" MODIFIED="1717125759433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HRegNet_main$setup.coverage" NAME="setup Coverage Results" MODIFIED="1718993701768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/PointUtils" />
+    <SUITE FILE_PATH="coverage/HRegNet_main$setup__1_.coverage" NAME="setup (1) Coverage Results" MODIFIED="1715759569389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/PointUtils" />
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$whu_data_loader.coverage" NAME="whu_data_loader Coverage Results" MODIFIED="1737360483475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$plot_chinese.coverage" NAME="plot-chinese Coverage Results" MODIFIED="1739273818991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1727396046185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-2114378452/574999754/torch/utils/data" />
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$reg_train.coverage" NAME="reg_train Coverage Results" MODIFIED="1728698892626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HRegNet_main$train_argo_reg.coverage" NAME="train_argo_reg Coverage Results" MODIFIED="1723382997310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$reg_eval_whu.coverage" NAME="reg_eval_whu Coverage Results" MODIFIED="1739835227678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HRegNet_main$train_feats.coverage" NAME="train_feats Coverage Results" MODIFIED="1717046913286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$deeplabv3_inference__1_.coverage" NAME="deeplabv3_inference (1) Coverage Results" MODIFIED="1724405183552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VisionHDRegNet$seg_eval.coverage" NAME="seg_eval Coverage Results" MODIFIED="1728786566440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
