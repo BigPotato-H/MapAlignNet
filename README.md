@@ -1,4 +1,5 @@
 # MapAlignNet
 Offical Implementation of MapAlignNet: Map-Guided Attention for Robust Registration between Camera Imagery and Lite Semantic Maps 
-<img width="879" height="426" alt="image" src="https://github.com/user-attachments/assets/47a2b3da-0a45-4d89-8c6c-949e38dd568d" />
+<img width="1635" height="801" alt="image" src="https://github.com/user-attachments/assets/34194c86-f2bc-4f32-81b8-95161004f5a7" />
+
 
